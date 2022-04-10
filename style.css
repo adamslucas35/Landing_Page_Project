@@ -1,4 +1,9 @@
-/* HEADER MENU */
+/* Text format and size */
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* HEADER + MENU */
 
 .header {
     background-color: rgb(44, 44, 80);
@@ -31,3 +36,13 @@
     align-items: center;
     justify-content: center;
 }
+
+/* Section One - INTRODUCTION */
+
+/* Section Two - PROMOS */
+
+/* Section Three - ?? */
+
+/* Section Four - FLY ANYWHERE */
+
+/* FOOTER */

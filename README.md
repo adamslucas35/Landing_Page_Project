@@ -6,7 +6,12 @@ The overall goal is to recreate the 'ideal' landing page and then move on and cr
 This assignment will be a test of knowledge, research and design skills, all put into one little project. 
 
 
-Image in <div class="SectionOne">
- Photo by Andrea Piacquadio: https://www.pexels.com/photo/person-with-toy-airplane-on-world-map-3769138/
+© Airplane on globe - Photo by Andrea Piacquadio: https://www.pexels.com/photo/person-with-toy-airplane-on-world-map-3769138/
 
-<em>Copyright &#169 2022 Adam S Lucas</em>
+© New York - Photo by Pixabay: https://www.pexels.com/photo/architecture-art-clouds-landmark-290386/
+
+© Maldives - Photo by Asad Photo Maldives: https://www.pexels.com/photo/aerial-photography-of-beautiful-resort-in-an-island-9482124/
+
+© London - Photo by Chait Goli: https://www.pexels.com/photo/white-and-brown-sailing-ship-1796715/
+
+<em>Copyright</em> © 2022 Adam S Lucas
