@@ -38,6 +38,22 @@
 }
 
 /* Section One - INTRODUCTION */
+.SectionOne {
+
+    background-color: rgb(44, 44, 80);
+    display: flex;
+
+}
+
+.SectionOne h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.SectionOne p {
+    color: #fff;
+}
 
 /* Section Two - PROMOS */
 

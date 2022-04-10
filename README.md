@@ -14,4 +14,6 @@ This assignment will be a test of knowledge, research and design skills, all put
 
 © London - Photo by Chait Goli: https://www.pexels.com/photo/white-and-brown-sailing-ship-1796715/
 
+© Australia - Photo by Mudassir Ali: https://www.pexels.com/photo/sydney-opera-house-australia-1878293/
+
 <em>Copyright</em> © 2022 Adam S Lucas
