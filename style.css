@@ -92,7 +92,7 @@
     /* Create square image size */
     width: 200px;
     height: 200px;
-    object-fit: cover;
+    exit object-fit: cover;
     border: 10px solid rgb(51, 48, 48);
     border-radius: 10%;
 
