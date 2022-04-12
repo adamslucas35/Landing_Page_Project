@@ -1,8 +1,10 @@
 /* Text format and size */
 * {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive, 'roboto', sans-serif;
 
 }
+
+
 
 
 /* HEADER + MENU */
@@ -22,6 +24,8 @@
 .header a {
     text-decoration: none;
     color: #fff;
+    font-family: 'roboto';
+    font-weight: 600;
 
 }
 
@@ -59,8 +63,8 @@
 .SectionOne h2 {
     font-size: xx-large;
     display: flex;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
-        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', */
+    /* 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
     color: rgb(192, 184, 184);
     justify-content: center;
     align-items: center;
@@ -81,27 +85,71 @@
 
 .SectionTwo {
     margin: 20px;
-
     display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+
+    flex-direction: row;
+    justify-content: center;
     align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    text-align: center;
+
 }
 
 .SectionTwo img {
     /* Create square image size */
-    width: 200px;
+
+    width: 275px;
     height: 200px;
-    exit object-fit: cover;
+    object-fit: cover;
+
     border: 10px solid rgb(51, 48, 48);
     border-radius: 10%;
+}
 
-
+.images {
+    float: left;
+    width: 20.93%;
+    padding: 5px;
+    text-decoration: none;
 
 }
+
+/* Clearfix (clear floats) */
+.SectionTwo::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+
+.SectionTwo h4,
+.SectionTwo a {
+    font-family: cursive;
+    text-decoration: none;
+    color: rgb(51, 48, 48);
+}
+
+.SectionOne a:hover {
+    color: aqua;
+}
+
+/* Promo Page - Says 'AWESOME, GOOD CHOICE" */
+.promo-page {
+    /* display: flex;
+    text-align: center;
+    justify-content: center; */
+    font-size: 80px;
+}
+
+
 
 /* Section Three - ?? */
 
 /* Section Four - FLY ANYWHERE */
 
 /* FOOTER */
+h5 {
+    font-family: Verdana;
+}
