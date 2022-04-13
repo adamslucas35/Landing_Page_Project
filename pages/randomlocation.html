@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>Random location is:</p>
+    <p id="randomWord"></p>
+
+
+    <script>
+        const myList = ["New York City; New York", "Los Angeles; California", "Chicago; Illinois",
+            "Houston, Texas", "Philadelphia, Pennsylvania"];
+
+        randomizeFunction()
+
+        function randomizeFunction() {
+            document.getElementById("randomWord").innerHTML = myList[Math.floor(Math.random() * myList.length)]
+        }
+    </script>
+</body>
+
+</html>
